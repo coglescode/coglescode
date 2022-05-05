@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <!-- ### Languages and tools I use. :arrow_heading_down: -->
 
 
-### Latest Blog Post
+<!--### Latest Blog Post-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
