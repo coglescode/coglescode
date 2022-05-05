@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
  😄 Pronouns: ...
 -->
-***
 
 - 🔭 I’m currently working on my [blog](https://coglescode/blog), documenting problems and solutions using Django.
 - 🌱 I’m currently learning how to get better with Django by doing projects. 
