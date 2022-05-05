@@ -1,5 +1,4 @@
-## Hi everyone, I'm Leonard - aka coglescode 👋   
-
+# Hi everyone, I'm Leonard - aka coglescode 👋   
 <!--
 **coglescode/coglescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,7 +7,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
  😄 Pronouns: ...
 -->
-***
 
 - 🔭 I’m currently working on my [blog](https://coglescode/blog), documenting problems and solutions using Django.
 - 🌱 I’m currently learning how to get better with Django by doing projects. 
@@ -29,3 +27,6 @@ Here are some ideas to get you started:
 <!-- ### Languages and tools I use. :arrow_heading_down: -->
 
 
+### Latest Blog Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
