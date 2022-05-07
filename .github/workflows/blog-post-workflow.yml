@@ -14,4 +14,4 @@ jobs:
       - name: Pull in coglescode.com/blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://coglescode.com/latest/posts/, https://coglescode.com/latest/posts, http://coglescode.com/latest/posts"
+          feed_list: "https://coglescode.com/latest/posts/, https://www.inoreader.com/feed/https%3A%2F%2Fcoglescode.com%2Fblog%2Flatest%2Fposts"
