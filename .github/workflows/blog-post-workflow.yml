@@ -13,4 +13,4 @@ jobs:
         with:
           feed-url: https://coglescode.com/blog/latest/posts
           readme-section: feed
-          template: "> {{ excerpt }}\n\n[Read more!]({{ url }})"
+ 
