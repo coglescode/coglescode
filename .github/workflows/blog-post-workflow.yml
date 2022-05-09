@@ -12,3 +12,5 @@ jobs:
         with:
           max_post_count: 3
           feed_list: "https://coglescode.com/latest/posts"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
