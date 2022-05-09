@@ -11,4 +11,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 3
-          feed_list: "https://blog.coglescode.com/latest/posts"
+          feed_list: "https://coglescode.com/latest/posts"
