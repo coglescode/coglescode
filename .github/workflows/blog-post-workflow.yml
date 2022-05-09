@@ -1,16 +1,14 @@
-name: Update this repo's README
-
+name: Latest blog post workflow
 on:
-  schedule:
-    # Once a day at 8 AM
-    - cron: 0 8 * * *
-
+  schedule: # Run workflow automatically
+    - cron: "0 * * * *" # Runs every hour, on the hour
 jobs:
-  update:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed-url: https://coglescode.com/blog/latest/posts
-          readme-section: feed
- 
+          max_post_count: 3
+          feed_list: "https://blog.coglescode.com/latest/posts"
