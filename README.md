@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my [blog](https://coglescode/blog), documenting problems and solutions using Django.
 - 🌱 I’m currently learning how to get better with Django by doing projects. 
 - 👯 I’m looking to collaborate on Django projects. 
-- 💬 Ask me about anything. I will do my best to answer your questions. 😄 
+- 💬 Ask me about Django. I will do my best to answer your questions. I want to check how my learning curve is doing by explaining to others. 😄 
 - ⚡ Fun fact: I'm into 3D printing [follow me](https://instagram.com/cogles3dprint).
 
 ### Connect with me. :arrow_heading_down:
