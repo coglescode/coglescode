@@ -8,7 +8,7 @@ Here are some ideas to get you started:
  😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on my [blog](https://coglescode/blog), documenting problems and solutions using Django.
+- 🔭 I’m currently working on an olnine shop web applicaton that I'm intending to publish, mean while check this project [Ecollege](https://capstone-production.up.railway.app/).
 - 🌱 I’m currently learning Django REST framework. 
 - 👯 I’m looking to collaborate on Django projects. 
 - 💬 Ask me about Django. I will do my best to answer your questions. I want to check how my learning curve is doing by explaining to others. 😄 
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <!-- ### Languages and tools I use. :arrow_heading_down: -->
 
 
-<!-- ### Blogs Post -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<Blogs Post>
+<BLOG-POST-LIST:START>
+<BLOG-POST-LIST:END>
