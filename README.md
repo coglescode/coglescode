@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![instagram](/assets/images/instagram.svg)][instagram]
 [![linkedin](/assets/images/linkedin.svg)][linkedin]
 
-[website]: https://coglescode.com
+[website]: https://www.coglescode.com
 [instagram]: https://instagram.com/coglescode
 [linkedin]: https://www.linkedin.com/in/leo-leito-b57884239/  
 
