@@ -8,12 +8,12 @@ Here are some ideas to get you started:
  😄 Pronouns: ...
 -->
 
-- 🔭 I just started my journey to become a Cloud Developer at Campus Mölndal as a student.
+- 🔭 I'm looking forward to manage your cloud solutions in the future.
 <!-- I’m currently working on an olnine shop web applicaton that I'm planing to publish for you to test, mean while check this project [Ecollege](https://capstone-production.up.railway.app/). -->
-- 🌱 I’m currently learning Django REST framework. 
-- 👯 I’m looking to collaborate on Django projects. 
-- 💬 Ask me about Django. I will do my best to answer your questions. I want to check how my learning curve is doing by explaining to others. 😄 
-<!-- - ⚡ Fun fact: I'm into 3D printing [follow me](https://instagram.com/cogles3dprint). -->
+- 🌱 I just started my journey to become a Cloud Developer at Campus Mölndal as a student.
+- 👯 I’m looking to grow my skills as fast as possible. 
+- 💬 Ask me about the course if your are interested. I will do my best to answer your questions. I want to check how my learning curve is doing by explaining to others. 😄 
+- ⚡ Fun fact: I'm into 3D printing [follow me](https://instagram.com/cogles3dprint).
 
 <!--
 ### Connect with me. :arrow_heading_down:
