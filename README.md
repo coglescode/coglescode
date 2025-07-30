@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I'm looking forward to manage your HPC environment or cloud solutions in the future.
 <!-- I’m currently working on an olnine shop web applicaton that I'm planing to publish for you to test, mean while check this project [Ecollege](https://capstone-production.up.railway.app/). -->
 - 🌱 I'm officially a Cloud Developer with a passion for infrastructure and HPC environments.
-- 👯 I’m looking to grow my skills as fast as possible. 
+<!-- 👯 I’m looking to grow my skills as fast as possible. 
 <!-- 💬 Ask me about the course if you're interested. I will do my best to answer your questions. I want to check how my learning curve is doing by explaining to others. 😄 
 <!-- ⚡ Fun fact: I'm into 3D printing [follow me](https://instagram.com/cogles3dprint). -->
 
